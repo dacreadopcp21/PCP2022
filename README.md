@@ -1,8 +1,8 @@
-# :shipit: PCP2022 - Pensamiento Computacional [LABORATORIOS]
+# PCP2022 - Pensamiento Computacional [LABORATORIOS]
 Este curso es una introducción a los fundamentos de la programación, entregando los conceptos esenciales que permitan a los estudiantes poder crear algoritmos para resolver problemas, implementándolos en un lenguaje de programación. No requiere ningún conocimiento previo en programación.
 
 ## Consideraciones
-- Presentar las ideas de otra persona como propias, ya sea textualmente o reformuladas con sus propias palabras, es una falta académica seria. Recuerden siempre citar las fuentes.
+- Presentar las ideas de otra persona como propias, ya sea textualmente o reformuladas con sus propias palabras, es una falta académica seria. Recuerden siempre citar las fuentes. :shipit:
 - El desarrollo de cada laboratorio deberá subirse al repositorio personal de cada uno.
 
 # Lista de Laboratorios 
