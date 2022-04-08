@@ -1,5 +1,5 @@
 # PCP2022 - Pensamiento Computacional [LABORATORIOS]
-:electron: :electron: :electron:
+:electron: :atom: :yellow_square: :green_square: :satellite::card_file_box::open_file_folder::books::computer:
 
 Este curso es una introducción a los fundamentos de la programación, entregando los conceptos esenciales que permitan a los estudiantes poder crear algoritmos para resolver problemas, implementándolos en un lenguaje de programación. No requiere ningún conocimiento previo en programación.
 
