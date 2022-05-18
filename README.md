@@ -14,4 +14,7 @@ Este curso es una introducción a los fundamentos de la programación, entregand
 - [X] Laboratorio 3 [LAB03] - 07 de Abril 2022 - 14 de Abril 2022
 - [X] Laboratorio 4 [LAB04] - 12 de Abril 2022
 - [X] Laboratorio 5 [LAB05] - 14 de Abril 2022 -> _Take Home_ (21 de Abril 2022)
-- [X] Laboratorio 6 [LAB06] - 21 de Abril 2022 -> _Take Home_ (28 de Abril 2022) TAREA!
+- [X] Laboratorio 6 [LAB06] - 21 de Abril 2022 -> _Take Home_ (28 de Abril 2022) 
+- [X] Laboratorio 7 [LAB07] - 05 de Mayo 2022 -> _Take Home_ (12 de Mayo 2022) 
+- [X] Laboratorio 8 [LAB08] - 12 de Mayo 2022 -> _Take Home_ (19 de Mayo 2022) 
+- [X] Laboratorio 9 [LAB09] - 18 de Mayo 2022 -> _Take Home_ (25 de Mayi 2022) 
