@@ -1,0 +1,46 @@
+1) Temario Evaluación 09 de Junio
+
+- POO (Programación Orientada a Objetos)
+- Uso de librerías (NumPY, MatplotLib , Pandas, Math,
+random, ....) 
+- Conceptual : Data Science + ML + DL
+
+__________________
+
+Estructura 
+
+1) Parte Take Home (para la casa)
+2) Parte Presencial (09/06) 
+
+Primera Entrega Final Semana 06 Junio
+
+Entrega Domingo 12 de Junio 23:59 hrs
+ 
+- Codigo en Python (Codigo del equipo de desarrollo,
+Código del equipo de Implementación, Código integrado
+(desarrollo + implementación))
+- PDF -> Introducción + Explicación de la Entrega
+(Justificación) + Trabajo Futuro 
+- Evaluación de Pares (0 - 10 Puntos El propio Equipo)
+(se entrega vía correo electrónico al Profesor)
+
+2) Trabajo Equipo Desarrollo y de Implementación (Semana 06 de Junio)
+
+- Desarrollo = {Funciones de Movimiento (gravedad)}
+-> Fijar las dimensiones de la pantalla. 
+
+- Implementación = {Dinámica de aparición de bloques +
+Diseño}
+
+
+######## NOTA PROYECTO ####### 
+
+1) ENTREGAS DE INVESTIGACIÓN (3 ENTREGAS) // ok 
+2) ENTREGAS PARCIALES FINALES (3 ENTREGAS) // 
+3) PRESENTACIÓN FINAL // (Funcionalidad / Rendimiento / ...)
+4) PREGUNTAS  
+
+
+
+
+
