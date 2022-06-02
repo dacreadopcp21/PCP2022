@@ -18,4 +18,4 @@ Este curso es una introducción a los fundamentos de la programación, entregand
 - [X] ~~Laboratorio 7 [LAB07]~~ - 05 de Mayo 2022 -> _Take Home_ (12 de Mayo 2022) 
 - [X] ~~Laboratorio 8 [LAB08]~~ - 12 de Mayo 2022 -> _Take Home_ (19 de Mayo 2022) [SIN ENUNCIADO]
 - [X] ~~Laboratorio 9 [LAB09]~~ - 18 de Mayo 2022 -> _Take Home_ (25 de Mayo 2022) 
-- [X] ~~Laboratorio 10 [LAB010]~~ - 26 de Mayo 2022 -> _Take Home_ (02 de Junio 2022) 
+- [X] Laboratorio 10 [LAB010] - 26 de Mayo 2022 -> _Take Home_ (02 de Junio 2022) 
