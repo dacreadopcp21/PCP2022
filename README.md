@@ -22,4 +22,5 @@ Este curso es una introducción a los fundamentos de la programación, entregand
 
 # Lista de Laboratorios 2 - Semestre
 
-- [X] ~~Laboratorio 0 [LAB0]~~ - 11 de Agosto 2022
+- [X] Laboratorio 0 [LAB0] - 11 de Agosto 2022 
+[Link para la experiencia de Laboratorio 0 - Encender y Apagar un LED]
