@@ -7,7 +7,7 @@ Este curso es una introducción a los fundamentos de la programación, entregand
 - Presentar las ideas de otra persona como propias, ya sea textualmente o reformuladas con sus propias palabras, es una falta académica seria. Recuerden siempre citar las fuentes. :shipit:
 - El desarrollo de cada laboratorio deberá subirse al repositorio personal de cada uno.
 
-# Lista de Laboratorios 
+# Lista de Laboratorios 1 - Semestre
 
 - [X] ~~Laboratorio 1 [LAB01]~~ - 24 de Marzo 2022
 - [X] ~~Laboratorio 2 [LAB02]~~ - 31 de Marzo 2022
@@ -19,3 +19,7 @@ Este curso es una introducción a los fundamentos de la programación, entregand
 - [X] ~~Laboratorio 8 [LAB08]~~ - 12 de Mayo 2022 -> _Take Home_ (19 de Mayo 2022) [SIN ENUNCIADO]
 - [X] ~~Laboratorio 9 [LAB09]~~ - 18 de Mayo 2022 -> _Take Home_ (25 de Mayo 2022) 
 - [X] Laboratorio 10 [LAB010] - 26 de Mayo 2022 -> _Take Home_ (02 de Junio 2022) 
+
+# Lista de Laboratorios 2 - Semestre
+
+- [X] ~~Laboratorio 0 [LAB0]~~ - 11 de Agosto 2022
