@@ -22,6 +22,6 @@ Este curso es una introducción a los fundamentos de la programación, entregand
 
 # Lista de Laboratorios 2 - Semestre
 
-- [X] Laboratorio 0 [LAB0] - 11 de Agosto 2022 
+- [X] Laboratorio 0 [LAB0] - 11 de Agosto 2022 -> _Take Home_
 [LAB0 - Encender y Apagar un LED](http://mecabot-ula.org/tutoriales/arduino/practica1-encender-y-apagar-con-arduino/)
 - [X] [Link - Test Compuertas Logicas TinkerCad](https://www.tinkercad.com/things/9tVK3gRX5QP)
